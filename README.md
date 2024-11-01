@@ -1,1 +1,3 @@
 # Prediction-Models-for-Housing-Prices-in-Chennai
+
+In this project, we use a housing dataset from Chennai, a major city in southern India with a dynamic real estate market. To predict housing prices based on observable features such as square footage, number of bedrooms, distance to the main road, date of sale, and neighborhood characteristics, we apply multiple machine learning models, including linear regression, Lasso regression, decision tree regression, and random forest regression. By comparing each model’s performance, we aim to identify the approach that best captures the underlying patterns in the data, ultimately improving the accuracy and reliability of housing price predictions.
